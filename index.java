@@ -4,16 +4,6 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
 import java.util.List;
-
-/*
- * FileHandlingUtility
- * -------------------
- * This program demonstrates:
- * 1. Writing data to a text file
- * 2. Reading data from a text file
- * 3. Modifying (appending) data in a text file
- */
-
 public class FileHandlingUtility {
 
     // Define file path
